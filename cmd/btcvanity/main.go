@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/MarinX/btc-vanity"
+	"github.com/NotKobe/btc-vanity"
 )
 
 var buffer = flag.Int("threads", 16, "How many threads you want to spawn")
