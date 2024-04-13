@@ -1,4 +1,4 @@
-module github.com/MarinX/btc-vanity
+module github.com/NotKobe/btc-vanity
 
 go 1.12
 
